@@ -73,7 +73,7 @@ npm install
   - Visit the \`https://<vercel-assigned-domain>/api/get_limit\` API for testing.
 - If running locally:
   - Run \`npm run dev\`.
-  - Visit the \`http://localhost:3000/api/get_limit\` API for testing.
+  - Visit the \`http://localhost:3001/api/get_limit\` API for testing.
 - If the following result is returned:
 
   \`\`\`json
